@@ -1,0 +1,10 @@
+package com.kodnest.controlconstructsprogramming;
+
+public class DiscountAccountabilty {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

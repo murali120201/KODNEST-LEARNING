@@ -1,0 +1,23 @@
+	package com.kodnest.programmingmarathon;
+	
+	import java.util.Scanner;
+	
+	public class TaxCalculator {
+	
+		public static void main(String[] args) {
+			Scanner scan=new Scanner(System.in);
+			System.out.println("Enter purchase amount");
+			double purchaseamount=scan.nextDouble();
+			System.out.println("Enter the tax rate");
+			double tax=scan.nextDouble();
+			System.out.println("The total cost is" +calculateTotalWithTax(purchaseamount, tax));
+		
+	
+		}
+		
+	public static double calculateTotalWithTax(double purchaseamount, double tax) 
+	{
+		
+		return purchaseamount+tax;
+	}
+}

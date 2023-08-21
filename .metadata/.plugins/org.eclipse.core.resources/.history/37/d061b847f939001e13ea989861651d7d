@@ -1,0 +1,22 @@
+package com.kodnest.programmingmarathon;
+
+import java.util.Scanner;
+
+public class CalculatorDilemma {
+
+	public static void main(String[] args) {
+		Scanner scan= new Scanner(System.in);
+		System.out.println("Enter a number between 1-5");
+		int num=scan.nextInt();
+		switch(num)
+		{
+		case 1:
+			System.out.println("Enter the two numbers to be added");
+			int n1=scan.nextInt();
+			int n2=scan.nextInt();
+			int res=n1+n2;
+		}
+
+	}
+
+}

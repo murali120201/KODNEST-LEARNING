@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kodnest.controlconstructsprogramming.DiscountAccountabilty.java&apos; to &apos;Main.java&apos;&#x0D;&#x0A;- Original project: &apos;DiscountAccountability&apos;&#x0D;&#x0A;- Original element: &apos;com.kodnest.controlconstructsprogramming.DiscountAccountabilty.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kodnest.controlconstructsprogramming.Main.java&apos;" description="Rename compilation unit &apos;DiscountAccountabilty.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kodnest.controlconstructsprogramming{DiscountAccountabilty.java" name="Main.java" references="false" stamp="1692360702125" version="1.0"/>
+</session>

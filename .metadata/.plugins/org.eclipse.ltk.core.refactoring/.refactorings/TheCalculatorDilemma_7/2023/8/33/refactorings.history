@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kodnest.programmingmarathon.CalculatorDIlemma&apos; to &apos;CalculatorDilemma&apos;&#x0D;&#x0A;- Original project: &apos;TheCalculatorDilemma_7&apos;&#x0D;&#x0A;- Original element: &apos;com.kodnest.programmingmarathon.CalculatorDIlemma&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kodnest.programmingmarathon.CalculatorDilemma&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CalculatorDIlemma&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kodnest.programmingmarathon{CalculatorDIlemma.java[CalculatorDIlemma" matchStrategy="1" name="CalculatorDilemma" qualified="false" references="true" similarDeclarations="false" stamp="1691944742102" textual="false" version="1.0"/>
+</session>
